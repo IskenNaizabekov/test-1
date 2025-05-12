@@ -1,0 +1,8 @@
+{
+  "name": "Искен",
+  "age": 19,
+  "married": false,
+  "hobbies": ["спорт", "футбол", "плавание"],
+  "takingCreatine": true,
+  "preferredLanguages": ["JavaScript", "HTML", "CSS"]
+}
