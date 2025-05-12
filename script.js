@@ -31,7 +31,7 @@ box.addEventListener("click", () => {
 // Задание 5
 const getData = () => {
     const xhr = new XMLHttpRequest();
-    xhr.open("GET", "./data/data.json", true);
+    xhr.open("GET", "data/data.json", true);
 
     xhr.onload = () => {
         if (xhr.status === 200) {
